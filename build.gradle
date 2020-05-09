@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group 'com.wuyiccc'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven{ url 'http://maven.aliyun.com/nexus/content/groups/public/'}
+}
+
+test {
+    useJUnitPlatform()
+}
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+dependencies {
+    testImplementation('org.junit.jupiter:junit-jupiter-api:5.4.2')
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.4.2')
+}

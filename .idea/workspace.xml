@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de0e1968-5866-4015-b28f-523040f71aa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_all_in_here\maven_repository" />
+        <option name="mavenHome" value="E:/maven_all_in_here/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven_all_in_here\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTAolhNIDilfe6rxXTbSN1ek2D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager" selected="Gradle.PeekIteratorTests.test_endToken">
+    <configuration name="PeekIteratorTests.test_endToken" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PeekIteratorTests.test_endToken&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PeekIteratorTests.test_lookahead2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PeekIteratorTests.test_lookahead2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PeekIteratorTests.test_peek" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;PeekIteratorTests.test_peek&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.PeekIteratorTests.test_endToken" />
+        <item itemvalue="Gradle.PeekIteratorTests.test_lookahead2" />
+        <item itemvalue="Gradle.PeekIteratorTests.test_peek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0e1968-5866-4015-b28f-523040f71aa5" name="Default Changelist" comment="" />
+      <created>1588645886884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588645886884</updated>
+      <workItem from="1588645890725" duration="14190000" />
+      <workItem from="1588990831598" duration="87000" />
+      <workItem from="1588990964060" duration="4573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="199" key="#Project_Structure" timestamp="1588991984257">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="199" key="#Project_Structure/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588991984257" />
+    <state x="713" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1588944616912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="713" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588944616912" />
+    <state x="774" y="296" key="FileChooserDialogImpl" timestamp="1588926303813">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="774" y="296" key="FileChooserDialogImpl/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588926303813" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1588993077703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588993077703" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1588993077703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588993077703" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1588993077703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588993077703" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1588993077703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588993077703" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1588990737757">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588990737757" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1588990737757">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588990737757" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1588990737757">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588990737757" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1588990737757">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588990737757" />
+    <state x="469" y="140" key="SettingsEditor" timestamp="1589005244106">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="140" key="SettingsEditor/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1589005244106" />
+    <state x="681" y="281" width="540" height="524" key="StructurePopup" timestamp="1588989011770">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="281" width="540" height="524" key="StructurePopup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588989011770" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588647835373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588647835373" />
+    <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1588926304806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="387" width="716" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588926304806" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1588926291150">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1440.0.1440.900@0.0.1920.1080" timestamp="1588926291150" />
+  </component>
+</project>
